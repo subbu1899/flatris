@@ -1,4 +1,4 @@
-// @flow
+// @flow test-subu
 
 const GAME_COLS = 16;
 const GAME_ROWS = 20;
